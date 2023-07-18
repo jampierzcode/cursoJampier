@@ -4,7 +4,7 @@ class Conexion
 {
     // parametros para el PDO
     private $servidor = "localhost";
-    private $dbname = "db_lotizador";
+    private $dbname = "db_curso";
     private $puerto = 3306;
     private $charset = "utf8";
     private $username = "root";
